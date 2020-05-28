@@ -10,7 +10,7 @@ public class Principal {
 		int opcao;
 		
 	
-	System.out.println("*****************ACESSO A MULTIFUNCIONAL***************");
+    System.out.println("*****************ACESSO A MULTIFUNCIONAL***************");
     System.out.println("*******************SELECIONE SUA OPÇÃO********************");
     System.out.println("1 - IMPRESSORA");
     System.out.println("2 - DIGITALIZADOR");

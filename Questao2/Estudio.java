@@ -13,7 +13,7 @@ public class Estudio {
 		Instrumento v = new Violao(1);
 		Instrumento t = new Teclado(2);
 		
-		System.out.println("**************SISTEMA DE COMPOSIÇÃO MUSICAL***************");
+	    System.out.println("**************SISTEMA DE COMPOSIÇÃO MUSICAL***************");
 	    System.out.println("*******************SELECIONE SUA OPÇÃO********************");
 	    System.out.println("1 - ENTRA!");
 	    System.out.println("2 - SAIR!");
