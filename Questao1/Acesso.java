@@ -9,7 +9,7 @@ public class Acesso {
 		Scanner leitor = new Scanner(System.in);
 		int opcao;
 		
-		System.out.println("*****************SISTEMA DE ACESSO DE PORTA***************");
+	    System.out.println("*****************SISTEMA DE ACESSO DE PORTA***************");
 	    System.out.println("*******************SELECIONE SUA OPÇÃO********************");
 	    System.out.println("1 - CHAVE");
 	    System.out.println("2 - CARTÃO");
